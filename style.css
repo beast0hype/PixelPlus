@@ -2,6 +2,10 @@
     font-family: "Open Sans", sans-serif;
 }
 
+body {
+    margin: 0
+}
+
 /*.pagecontainer{
     position: relative;
     min-height: 100vh;
